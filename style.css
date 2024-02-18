@@ -4,6 +4,7 @@ body {
   padding: 30px;
   background-size: cover;
   font-family: sans-serif;
+  background-color: grey;
 }
 header {
   background-color: navy;
