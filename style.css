@@ -27,11 +27,11 @@ header li a {
   text-decoration: none;
 }
 
-h1 {
-  color: light blue;
+h1.head {
+  color: lightblue;
 }
 
-p {
-  color: orange
+p.para {
+  color: orange;
 }
   
